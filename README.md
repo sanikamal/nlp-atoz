@@ -12,5 +12,12 @@
 - Document Summarization
 - Question Answering
 
+## Some Common Terms
+- [Common NLP Terms](common-term.md)
+
 ## Table of Contents
+- [Clean Text With Python](clean_text_with_python.ipynb)
+- [Text Tokenization and Cleaning with NLTK](cleaning_with_nltk.ipynb)
+- [Prepare Text Data with scikit-learn](prepare_text_data_with_scikit-learn.ipynb)
+- [Prepare Text Data With tf.keras](prepare_text_with_tf.keras.ipynb)
 
