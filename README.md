@@ -33,27 +33,22 @@ To get started with NLP A to Z, make sure you have a basic understanding of Pyth
 ## Projects and Notebooks 🌐💡
 Explore the following projects and notebooks included in this repo:
 
-## Table of Contents
-- 
-- [Text Tokenization and Cleaning with NLTK](cleaning_with_nltk.ipynb)
-- [Prepare Text Data with scikit-learn](prepare_text_data_with_scikit-learn.ipynb)
-- [Prepare Text Data With tf.keras](prepare_text_with_tf.keras.ipynb)
     ### Data Processing Techniques
-        #### Clean Text With Python
+    - #### Clean Text With Python
         - Description: This notebook demonstrates various techniques to clean text data using Python. It covers processes like removing special characters, handling stopwords, normalizing text, and more.
         - Notebook: [Clean Text With Python](clean_text_with_python.ipynb)
 
-    Text Tokenization and Cleaning with NLTK
-        Description: This notebook focuses on text tokenization and cleaning using the Natural Language Toolkit (NLTK) library. It covers techniques like word tokenization, sentence tokenization, stemming, and lemmatization.
-        Notebook: Text_Tokenization_and_Cleaning_with_NLTK.ipynb
+    - #### Text Tokenization and Cleaning with NLTK
+        - Description: This notebook focuses on text tokenization and cleaning using the Natural Language Toolkit (NLTK) library. It covers techniques like word tokenization, sentence tokenization, stemming, and lemmatization.
+        - Notebook: [Text Tokenization and Cleaning with NLTK](cleaning_with_nltk.ipynb)
 
-    Prepare Text Data with scikit-learn
-        Description: This notebook showcases how to prepare text data for machine learning tasks using scikit-learn. It covers techniques like vectorization, feature extraction, and handling sparse data.
-        Notebook: Prepare_Text_Data_with_scikit-learn.ipynb
+    - #### Prepare Text Data with scikit-learn
+        - Description: This notebook showcases how to prepare text data for machine learning tasks using scikit-learn. It covers techniques like vectorization, feature extraction, and handling sparse data.
+        - Notebook: [Prepare Text Data with scikit-learn](prepare_text_data_with_scikit-learn.ipynb)
 
-    Prepare Text Data With tf.keras
-        Description: This notebook demonstrates how to prepare text data for deep learning tasks using the tf.keras API. It covers techniques like tokenization, padding, and creating word embeddings to train a sentiment analysis model.
-        Notebook: Prepare_Text_Data_With_tf.keras.ipynb
+    - #### Prepare Text Data With tf.keras
+        - Description: This notebook demonstrates how to prepare text data for deep learning tasks using the tf.keras API. It covers techniques like tokenization, padding, and creating word embeddings to train a sentiment analysis model.
+        - Notebook: [Prepare Text Data With tf.keras](prepare_text_with_tf.keras.ipynb)
 
     Sentiment Analysis with Transformer-based Architectures
         Description: Building a sentiment analysis model using transformer-based architectures (such as BERT) and transfer learning techniques. This notebook demonstrates
