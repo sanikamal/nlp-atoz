@@ -3,10 +3,11 @@
 Welcome to NLP A to Z, a comprehensive collection of best practices, examples, and mini-projects in Natural Language Processing (NLP). This repo is designed to provide you with a wide range of resources and practical implementations to help you learn and explore the fascinating field of NLP.
 
 ## Table of Contents 📖
-- **<u>Introduction</u>**
+- **Introduction**
 - **Features**
 - **Getting Started**
 - **Projects and Notebooks**
+- **Resources**
 - **Contributing**
 - **License**
 
@@ -33,12 +34,34 @@ To get started with NLP A to Z, make sure you have a basic understanding of Pyth
 Explore the following projects and notebooks included in this repo:
 
 ## Table of Contents
-- [Clean Text With Python](clean_text_with_python.ipynb)
+- 
 - [Text Tokenization and Cleaning with NLTK](cleaning_with_nltk.ipynb)
 - [Prepare Text Data with scikit-learn](prepare_text_data_with_scikit-learn.ipynb)
 - [Prepare Text Data With tf.keras](prepare_text_with_tf.keras.ipynb)
+    ### Data Processing Techniques
+        #### Clean Text With Python
+        - Description: This notebook demonstrates various techniques to clean text data using Python. It covers processes like removing special characters, handling stopwords, normalizing text, and more.
+        - Notebook: [Clean Text With Python](clean_text_with_python.ipynb)
 
-    ### Text Classification using Naive Bayes
+    Text Tokenization and Cleaning with NLTK
+        Description: This notebook focuses on text tokenization and cleaning using the Natural Language Toolkit (NLTK) library. It covers techniques like word tokenization, sentence tokenization, stemming, and lemmatization.
+        Notebook: Text_Tokenization_and_Cleaning_with_NLTK.ipynb
+
+    Prepare Text Data with scikit-learn
+        Description: This notebook showcases how to prepare text data for machine learning tasks using scikit-learn. It covers techniques like vectorization, feature extraction, and handling sparse data.
+        Notebook: Prepare_Text_Data_with_scikit-learn.ipynb
+
+    Prepare Text Data With tf.keras
+        Description: This notebook demonstrates how to prepare text data for deep learning tasks using the tf.keras API. It covers techniques like tokenization, padding, and creating word embeddings to train a sentiment analysis model.
+        Notebook: Prepare_Text_Data_With_tf.keras.ipynb
+
+    Sentiment Analysis with Transformer-based Architectures
+        Description: Building a sentiment analysis model using transformer-based architectures (such as BERT) and transfer learning techniques. This notebook demonstrates
+
+    Description: This notebook demonstrates various techniques to clean text data using Python. It covers processes like removing special characters, handling stopwords, normalizing text, and more.
+    Notebook: Clean_Text_With_Python.ipynb
+
+    #### Text Classification using Naive Bayes
         Description: Implementing a simple text classification model using the Naive Bayes algorithm. This project demonstrates the process of training a classifier on a labeled dataset and making predictions on unseen text data.
         Notebook: Text_Classification_Naive_Bayes.ipynb
 
@@ -73,18 +96,14 @@ Explore the following projects and notebooks included in this repo:
 
 Feel free to explore these projects and notebooks to gain practical knowledge and insights into various NLP tasks and techniques.
 
+## Resources 📚📝
+For a comprehensive list of additional resources, tutorials, and research papers related to NLP, please refer to the Resources file.
+
 ## Contributing 👥🤝
 
 Contributions are highly encouraged! If you have an idea for a new best practice, an interesting example, or a mini-project that you'd like to add, please feel free to submit a pull request. We also welcome bug reports, feature requests, and feedback on existing content. Let's collaborate and make NLP A to Z an even better resource for the community.
 
-
-## 📚 Resources
-For a comprehensive list of additional resources, tutorials, and research papers related to NLP, please refer to the Resources file.
-
-## License📝📜
+## License 📝📜
 NLP AtoZ is licensed under the MIT License. See the LICENSE file for more details.
-
-## 📬 Contact
-For any questions, suggestions, or feedback, please feel free to reach out.
 
 🌟 Enjoy your NLP journey with NLP A to Z! Happy exploring and building amazing NLP applications! 👩‍💻👨‍💻
