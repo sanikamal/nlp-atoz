@@ -2,8 +2,8 @@
 
 Welcome to NLP A to Z, a comprehensive collection of best practices, examples, and mini-projects in Natural Language Processing (NLP). This repo is designed to provide you with a wide range of resources and practical implementations to help you learn and explore the fascinating field of NLP.
 
-## Table of Contents 🌐📖
-- **Introduction**
+## Table of Contents 📖
+- **<u>Introduction</u>**
 - **Features**
 - **Getting Started**
 - **Projects and Notebooks**
