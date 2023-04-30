@@ -11,9 +11,6 @@ Welcome to NLP A to Z, a comprehensive collection of best practices, examples, a
 - **Contributing**
 - **License**
 
-
-
-
 ## Introduction 🌐🔠
 
 Natural Language Processing (NLP) is a branch of artificial intelligence that focuses on the interaction between computers and human language. NLP A to Z is your go-to resource for diving deep into NLP concepts, techniques, and applications. Whether you're a beginner or an experienced practitioner, this repo will provide you with valuable insights and hands-on experience.
@@ -50,52 +47,12 @@ Explore the following projects and notebooks included in this repo:
     - Description: This notebook demonstrates how to prepare text data for deep learning tasks using the tf.keras API. It covers techniques like tokenization, padding, and creating word embeddings to train a sentiment analysis model.
     - Notebook: [Prepare Text Data With tf.keras](prepare_text_with_tf.keras.ipynb)
 
-    Sentiment Analysis with Transformer-based Architectures
-        Description: Building a sentiment analysis model using transformer-based architectures (such as BERT) and transfer learning techniques. This notebook demonstrates
-
-    Description: This notebook demonstrates various techniques to clean text data using Python. It covers processes like removing special characters, handling stopwords, normalizing text, and more.
-    Notebook: Clean_Text_With_Python.ipynb
-
-    #### Text Classification using Naive Bayes
-        Description: Implementing a simple text classification model using the Naive Bayes algorithm. This project demonstrates the process of training a classifier on a labeled dataset and making predictions on unseen text data.
-        Notebook: Text_Classification_Naive_Bayes.ipynb
-
-    Named Entity Recognition (NER) with SpaCy
-        Description: Applying named entity recognition (NER) to identify and classify named entities in text using the SpaCy library. This notebook provides examples and insights into extracting entities like person names, organizations, and locations from text.
-        Notebook: NER_with_SpaCy.ipynb
-
-    Sentiment Analysis with LSTM
-        Description: Building a sentiment analysis model using Long Short-Term Memory (LSTM) networks. This project demonstrates how to preprocess text data, train an LSTM model, and evaluate its performance on sentiment analysis tasks.
-        Notebook: Sentiment_Analysis_LSTM.ipynb
-
-    Topic Modeling with Latent Dirichlet Allocation (LDA)
-        Description: Utilizing Latent Dirichlet Allocation (LDA) to discover hidden topics within a collection of text documents. This notebook walks you through the process of applying LDA to a dataset and visualizing the resulting topics.
-        Notebook: Topic_Modeling_LDA.ipynb
-
-    Machine Translation using Transformer Models
-        Description: Implementing a machine translation system using Transformer models, such as BERT or GPT-2. This project showcases the power of transformer-based models in the domain of language translation.
-
-    Notebook: Machine_Translation_Transformer.ipynb
-
-    Text Generation with GPT-2
-        Description: Generating text using the powerful GPT-2 language model. This notebook demonstrates how to fine-tune GPT-2 on a specific dataset and generate creative and coherent text based on the learned patterns.
-        Notebook: Text_Generation_GPT2.ipynb
-
-    Document Summarization with BART
-        Description: Implementing document summarization using BART (Bidirectional and Auto-Regressive Transformers). This project shows how to fine-tune BART for summarizing longer pieces of text, such as articles or documents.
-        Notebook: Document_Summarization_BART.ipynb
-
-    Sentiment Analysis using Transformers and Transfer Learning
-        Description: Building a sentiment analysis model using transformer-based architectures (such as BERT) and transfer learning techniques. This notebook demonstrates how to leverage pre-trained transformer models for sentiment analysis tasks.
-        Notebook: Sentiment_Analysis_Transfer_Learning.ipynb
-
 Feel free to explore these projects and notebooks to gain practical knowledge and insights into various NLP tasks and techniques.
 
 ## Resources 📚📝
 For a comprehensive list of additional resources, tutorials, and research papers related to NLP, please refer to the Resources file.
 
 ## Contributing 👥🤝
-
 Contributions are highly encouraged! If you have an idea for a new best practice, an interesting example, or a mini-project that you'd like to add, please feel free to submit a pull request. We also welcome bug reports, feature requests, and feedback on existing content. Let's collaborate and make NLP A to Z an even better resource for the community.
 
 ## License 📝📜
