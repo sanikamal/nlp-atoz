@@ -1,4 +1,4 @@
-## Some terms and definitions
+## Common Terms and Definitions
 - **Feature engineering**: The process of creating new features and/or transforming existing features to get the most out of your data
 - **Lemmatizing**:The process of grouping together the inflected forms of a word so they can be analyzed as a single term
 - **root cause**:The earliest underlying factor contributing to a problem
