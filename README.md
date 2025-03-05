@@ -12,12 +12,13 @@ Welcome to NLP A to Z, a comprehensive collection of best practices, examples, a
 
 ## Projects and Notebooks 🌐💡
 
-| **Title**     |**Description**    | **Technology/Library**        | **Link**     |
-|---------------|---------------------------------|--------------------|-----------------------|
-| Clean Text With Python              | Demonstrates various techniques to clean text data, such as removing special characters, handling stopwords, and normalizing text. | Python                         | [Notebook](notebook/clean_text_with_python.ipynb) |
-| Text Tokenization and Cleaning with NLTK | Focuses on text tokenization and cleaning using the Natural Language Toolkit (NLTK). Includes word tokenization, sentence tokenization, stemming, and lemmatization. | NLTK                           | [Notebook](notebook/cleaning_with_nltk.ipynb) |
-| Prepare Text Data with scikit-learn  | Showcases text preparation for machine learning tasks using scikit-learn. Covers vectorization, feature extraction, and handling sparse data. | scikit-learn    | [Notebook](notebook/prepare_text_data_with_scikit-learn.ipynb) |
-| Prepare Text Data With tf.keras      | Demonstrates text preparation for deep learning tasks using the tf.keras API. Includes tokenization, padding, and creating word embeddings for sentiment analysis. | tf.keras                       | [Notebook](notebook/prepare_text_with_tf.keras.ipynb) |
+| **Title**     |**Description**                  | **Technology/Library**     | **Link**              |
+|---------------|---------------------------------|----------------------------|-----------------------|
+| **Clean Text With Python** | Demonstrates various techniques to clean text data, such as removing special characters, handling stopwords, and normalizing text. | `Python` | [Notebook](notebook/clean_text_with_python.ipynb) |
+| **Text Tokenization and Cleaning with NLTK** | Focuses on text tokenization and cleaning using the Natural Language Toolkit (NLTK). Includes word tokenization, sentence tokenization, stemming, and lemmatization. | `NLTK` | [Notebook](notebook/cleaning_with_nltk.ipynb) |
+| **Prepare Text Data with scikit-learn**  | Showcases text preparation for machine learning tasks using scikit-learn. Covers vectorization, feature extraction, and handling sparse data. | `scikit-learn`    | [Notebook](notebook/prepare_text_data_with_scikit-learn.ipynb) |
+| **Prepare Text Data With tf.keras**      | Demonstrates text preparation for deep learning tasks using the tf.keras API. Includes tokenization, padding, and creating word embeddings for sentiment analysis. | `tf.keras` | [Notebook](notebook/prepare_text_with_tf.keras.ipynb) |
+| **Comparing Trained LLM Tokenizers** | Exploring different tokenizers associated with various LLMs and analyzing how each tokenizer handles tokenization. | `LLMs`, `Tokenization` | [Notebook](notebook/comparing_llm_tokenizers.ipynb) |
 
 Feel free to explore these projects and notebooks to gain practical knowledge and insights into various NLP tasks and techniques.
 
